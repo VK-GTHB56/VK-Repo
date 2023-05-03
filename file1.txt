@@ -2,4 +2,7 @@ in main in remote
 2nd line added in local repo
 3rd line added in local repo in branch b1
 3rd line added in local repo in branch b1
+
 4th line added in local repo in branch b1
+5th line added in remote repo main
+
